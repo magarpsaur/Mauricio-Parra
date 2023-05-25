@@ -1,0 +1,158 @@
+@charset "utf-8";
+.contenedor {
+    background-color: #000000;
+    height: 768px;
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.barra hr {
+    width: 1000px;
+    border: 2px solid #D67929;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+     font-family: 'Paytone One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+
+
+.barra {
+    background-color: #000000;
+    height: 62px;
+    width: 1366px;
+    float: left;
+
+    color: #eae615;
+    margin-top: 43px;
+    margin-bottom: auto;
+    text-align: center;
+     font-family: 'Paytone One', sans-serif;;
+    font-style: normal;
+    font-weight: 400;
+    color: #eae615;
+}
+.valor1 {
+    background-color: #000000;
+    height: 562px;
+    width: 800px;
+    float: left;
+    clear: left;
+}
+.valor2 {
+    background-color: #000000;
+    height: 562px;
+    width: 490px;
+    margin-top: auto;
+    float: right;
+}
+
+.valor3 {
+    height: 562px;
+    width: 430px;
+    float: right;
+    margin-bottom: auto;
+}
+.contenedor .valor3 img {
+
+}
+
+
+.footer {
+    background-color: #000000;
+    height: 75px;
+    width: 1366px;
+    color: #eae615;
+     font-family: 'Paytone One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #eae615;
+    margin-left: 49px;
+    float: left;
+}
+.contenedor .valor2 p1 {
+    font-family: 'Abril Fatface', cursive;
+    color: #d67929;
+    margin-bottom: 36px;
+}
+header {
+    color: #FDEDD9;
+    text-align: left;
+    margin-left: 867px;
+     font-family: 'Paytone One', sans-serif;
+    font-style: normal;
+    width: 846px;
+    position: static;
+    left: 67px;
+    top: 14px;
+    font-weight: 400;
+    font-size: 33px;
+    margin-top: auto;
+}
+.contenedor .valor1 form {
+    color: #eae615;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: auto;
+    padding-right: auto;
+    font-size: 16px;
+    clear: none;
+    width: 0px;
+    -webkit-box-sizing: content-box;
+    -moz-box-sizing: content-box;
+    box-sizing: content-box;
+    min-height: 0px;
+    top: 0px;
+    bottom: 0px;
+    text-align: center;
+}
+.contenedor .valor2 img {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    width: 770px;
+    position: static;
+    padding-top: auto;
+    padding-right: auto;
+    padding-bottom: auto;
+    padding-left: auto;
+}
+.contenedor header {
+    margin-left: auto;
+    margin-right: auto;
+    clear: left;
+    float: none;
+    color: #eae615;
+}
+.contenedor .valor2 p {
+    font-family: 'Paytone One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #eae615;
+    font-size: 17px;
+    font-variant: normal;
+    /* [disabled]margin-top: 263px; */
+    margin-bottom: auto;
+    padding-top: 194px;
+    padding-right: 60px;
+}
+.contenedor .barra {
+    color: #eae615;
+}
+.contenedor header {
+}
+a:link {
+    color: #eae615;
+}
+:visited {
+    color: #d67929;
+}
+body {
+    background-color: #000000;
+}
